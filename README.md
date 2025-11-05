@@ -121,6 +121,7 @@ e7_Optional.demo();
 ````
 
 ## 👩‍💻 Autor
-Nom: Carlos Alberto Garzón Bedoya
-Curs: Java Backend - IT Academy
-Sprint: 1. Tasca 4 — Testing
+**Nom:** *Carlos Alberto Garzón Bedoya*  
+**Curs:** Java Backend - IT Academy  
+**Sprint:** 1. Tasca 4 — Testing
+
